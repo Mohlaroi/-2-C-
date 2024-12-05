@@ -1,8 +1,3 @@
-
-
-
-
-
 #include "Shop.h"
 #include "Rose.h"
 #include "Tulip.h"
